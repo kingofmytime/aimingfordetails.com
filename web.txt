@@ -1,0 +1,38 @@
+﻿<index.html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Aiming For Details LLC</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <header>
+       <h1>Aiming For Details LLC</h1>
+       <nav>
+           <ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+           </ul>
+       </nav>
+   </header>
+   <main>
+       <section>
+           <h2>Welcome to Aiming For Details LLC</h2>
+           <p>We provide top-notch car detailing services to keep your vehicle looking brand new. Trust our experts for thorough and professional care.</p>
+           <h3>Our Services</h3>
+           <ul>
+               <li>Exterior Wash and Wax</li>
+               <li>Interior Detailing</li>
+               <li>Engine Cleaning</li>
+               <li>Headlight Restoration</li>
+               <li>And more!</li>
+           </ul>
+       </section>
+   </main>
+   <footer>
+       <p>&copy; 2024 Aiming For Details LLC. All rights reserved.</p>
+   </footer>
+</body>
+</html>
